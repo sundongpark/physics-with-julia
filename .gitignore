@@ -30,3 +30,15 @@ JuliaLocalPreferences.toml
 
 # Conda environment and metadata created in the project directory by the CondaPkg package
 .CondaPkg/
+
+# VS Code
+.vscode/
+
+# Generated outputs
+output/
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
